@@ -1,0 +1,16 @@
+#name{
+    background-color: burlywood;
+}
+#tr1{
+    background-color: aquamarine;
+}
+.trow:nth-child(even){
+    background-color: darkkhaki;
+}
+.trow:nth-child(odd){
+    background-color: lightcoral;
+}
+.project{
+    color: blueviolet;
+    background-color: navajowhite;
+}
